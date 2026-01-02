@@ -1,7 +1,14 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8ed6eb74eb0cb6c39e5df5b49b90749722faa45d
 experiment 4
 now its experiment 5
 changes done again
 doing different changes
 now its experiment 5 again
+<<<<<<< HEAD
 hmm
+=======
+>>>>>>> 8ed6eb74eb0cb6c39e5df5b49b90749722faa45d
 
