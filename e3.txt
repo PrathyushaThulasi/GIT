@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 experiment 4
 now its experiment 5
 changes done again
-...
-
-=======
 doing different changes
 now its experiment 5 again
->>>>>>> e6c1e5f (commiting changes)
+hmm
 
